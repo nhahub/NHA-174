@@ -1,29 +1,99 @@
---########## Descriptive Statistics  ########### 
-1 -- ةنيعلا يف نيدوجوملا دارفلال لخدلا طسوتم--   
-2 
-ةنيعلا يف نيدوجوملا صاخشلال ةيعامتجلاا ةلاحلا--3  هنيعلا يف دوجوم لخد ىلعأو لقأ ام 
-4 --  ةنيعلا يف نيدوجوملا صاخشلاا رمع طسوتم--5 اروهظ ةيرمع هئف رثكا يه ام  -- 6  ةنمزم ضارما نم نوناعي ىذلا صاخشلاا ددع --7  ؟ةنمزم ضارمأ + بائتكا خيرات مهدنع يللا صاخشلأا ددع ام -- 8 نيخدتلا يلا ةداع بائتكلااب باصملا صخشلا هجتي له  -- 9 تايلوحكلا يلا ةداع بائتكلااب باصملا صخشلا هجتي له  -- 10 ؟بائتكا اهدنع ةئف ىلعأ امه ضفخنم ميلعت مهدنع يللا صاخشلأا له --  مهلخد نيذلا ددع و طسوتملا نم يلعا مهلخد ةنيعلا ف نيدوجوملا صاخشلاا ددع
- 11 
- طسوتملا نم لقا-- ############### Lifestyle Analysis ################## --12  ؟نينخدملا ريغ نم ىلعأ بائتكا خيرات مهدنع لا نينخدملا له --13  ؟بائتكلاا تلادعم عافتراب طبترم  ضفخنملا يندبلا طاشنلا له 
---14  ؟بائتكلااب ةباصلإاب ةقلاع اهل  ءاذغلا طامنأ له --15 مونلا ةلق نم وناعيب يسفنلا ضرملل خيرات مهدنع لا صاخشلاا له -- ##############        
-############# 
-Demographics & Socio-economic         --16 ؟مهريغب ةنراقم بائتكلال يلئاع خيرات مهدنع يللا صاخشلأل لخدلا طسوتم ام --17 ؟نيجوزتملا ريغو نيجوزتملا نيب بائتكلاا لدعم يف قرف يف له --18 ؟نيلماعلا نم رثكأ بائتكلال نوضرعم  لمعلا نع نيلطاعلا له --19  ؟بائتكلاا تلادعمب ةقلاع هل  لافطلأا ددع له -- 20  ؟بائتكلاا لدعم ضافخنا وأ ةدايزب طبترم  ميلعتلا ىوتسم له -- 21  ؟بائتكلااب ةباصلاا ةيلامتحا ةدايزب ةقلاع هيل  نسلا يف مدقتلا له -- ###################    Health & Medical History   
-######################## 
--
-  ؟بائتكلااب طبترم ةنمزم ضارمأ دوجو له
- 22   --23   ةنمزم ضارمأ نم نوناعي بائتكلاا نم يلئاع خيرات مهيدل نيذلا صاخشلأا له
- ؟رثكأ --24   ىلعأ تلادعم مهدنع ةردخم داوم يطاعت خيرات مهدنع يللا صاخشلأا له
- ؟بائتكلال -- 25  ؟بائتكا دوجو ةيلامتحا ديزي  يسفن ضرم خيرات دوجو له --26 ؟أوسأ مون تاداع مهدنع بائتكلااب يلئاع خيرات مهدنع يللا صاخشلأا له --27  نيضرعم يلاتلابو لقأ مهلخد نوكيب ةنمزم ضارمأ مهدنع يللا صاخشلأا له
- ؟بائتكلا --28 ؟لقأ يندب طاشن مهدنع ةردخم داوم اوطاعتيب يللا صاخشلأا له -- #################        
-##################### 
-   Correlations / Interactions)            --29 ؟بائتكا مهدنع يللا صاخشلأل ةبسنلاب يندبلا طاشنلاو لخدلا نيب ةقلاعلا ام --30 ؟بائتكا خيرات مهدنع يللا صاخشلأا دنع نيخدتلاو مونلا نيب ةقلاع يف له --31  يسفن ضرم خيرات و ةردخم داوم يطاعت يف خيرات مهدنع يللا صاخشلأا له
- ؟ىلعأ ةجردب بائتكلا نيضرعم --32 ؟بائتكلاا ىلع نيخدتلا يز ةيبلسلا لماوعلا رثأ للقي عفترملا ميلعتلا له 
---33  ؟لخدلا يوتسم و يندبلا طاشنلا وا ةضايرلا ةسرامم نيب ةقلاع دجوي له --34  ةضرع رتكأ يلاتلاباف ئيس مون نم اوناعيب لوحك نينمدم يللا صاخشلأا له
- ؟بائتكلال --35  ؟بائتكلاا عم يلئاع خيرات دوجو بسح لخدلا يف فلاتخا دجوي له -- 36
- ةيلطاوعلا و ولغتشيب  
-ا(
- )ةيلطاوعلا بورج ءاضع  لا بائتكلااب نيباصملا صاخشلاا رامعا طسوتم-- ################   Advanced / Predictive Thinking   
-####################### --37. 
-؟تانايبلا يف بائتكلااب ةطبترم لماوع 
-3
- مهأ ام--38.  ؟يندبلا طاشنلا ،مونلا  :لماوع مادختساب بائتكلاا عقوت نكمم له --39. نيخدت و ضفخنم لخد و ليلق مون :مهدنع يللا صاخشلأل بائتكلاا ةيلامتحا ام --40. ؟ضفخنملا لخدلا مأ يطاعتلا مأ ئيسلا مونلا :بائتكلااب ا ًطابترا ىوقأ امه
+#### **1. Project Title**
+
+**Analyzing the Correlation Between Depression Indicators and Suicide Rates
+Using Data Integration and Statistical Modeling**
+
+#### **2. Team Objective**
+
+To investigate how depression levels (as indicated by survey or clinical data)
+relate to suicide rates across different demographics, regions, and time periods
+by combining and analyzing two separate data sets.
+
+#### **3. Data Sources**
+
+-   **Dataset 1:** Depression data
+
+-   **Dataset 2:** Suicide data
+
+Both datasets were cleaned, normalized, and merged based on shared attributes
+such as **country**, **year**, and **age group**.
+
+#### **4. Methodology**
+
+1.  **Data Cleaning and Preparation**
+
+    -   Removed missing or inconsistent entries.
+
+    -   Standardized country and year formats.
+
+    -   Handled null values using interpolation or median imputation or by
+        removal.
+
+    -   Normalized scales where needed (e.g., per 100k population).
+
+2.  **Data Integration**
+
+    -   Merged both datasets on key variables (e.g., country-year pair).
+
+    -   Verified alignment using cross-checks and descriptive summaries.
+
+3.  **Exploratory Data Analysis (EDA)**
+
+    -   Visualized distributions of depression prevalence and suicide rates.
+
+    -   Identified trends over time and across regions.
+
+    -   Checked correlation patterns using scatter plots and heatmaps.
+
+4.  **Statistical and Analytical Modeling**
+
+    -   Calculated **Pearson correlation coefficient** to quantify the
+        relationship.
+
+    -   Used **linear regression** to model how depression rates predict suicide
+        rates.
+
+    -   Explored **multivariate regression** to include other factors
+
+5.  **Data Visualization**
+
+    -   Created dashboards or charts showing:
+
+        -   Suicide rate vs. depression rate trends.
+
+        -   Geographic comparisons (maps).
+
+        -   Age and gender-based patterns.
+
+6.  **Findings and Insights**
+
+    -   Found positive correlation between depression levels and suicide rates.
+
+    -   Noted stronger correlations in specific regions or demographics.
+
+    -   Discussed limitations (e.g., underreporting, cultural factors).
+
+7.  **Conclusion**
+
+    -   Summarized the statistical link between depression and suicide.
+
+    -   Highlighted potential areas for policy focus or further mental health
+        research.
+
+8.  **Tools and Technologies Used**
+
+    -   **Python (Pandas, NumPy, Matplotlib, Seaborn)** for data analysis.
+
+    -   **Tableau** for visualization.
+
+    -   **Jupyter Notebook **for collaboration.
+
+9.  **Team Roles**
+
+    -   **Data Collection & Cleaning:** [Yousef Zaki]
+
+    -   **Statistical Analysis:** [Mohammed Gouda/ Hany Atya]
+
+    -   **Visualization & Reporting:** [Ruba Ashraf/ Rahma Basem]
+
+    -   **Project Coordination & Presentation:** [Sara Mousa]
